@@ -2,7 +2,6 @@
 
 An interactive sales analytics dashboard built to visualize and track the performance of a retail superstore across various business dimensions.
 
-![Dashboard Screenshot](./aa005671-b10c-44b7-bf5f-8b6cadf19e06.png)
 
 ## 🚀 Features
 
@@ -42,13 +41,13 @@ Corporate sales reviews and decision making
 Data analysis practice for students and professionals
 
 🧠 Insights Gained
-Office Supplies contributed the most to total sales.
+-Office Supplies contributed the most to total sales.
 
-Consumer segment dominates sales volume.
+-Consumer segment dominates sales volume.
 
-COD is the most used payment mode.
+-COD is the most used payment mode.
 
-Profitability and sales peak during November and December.
+-Profitability and sales peak during November and December.
 
 👤 Author
 Ajinkya Kutarmare
